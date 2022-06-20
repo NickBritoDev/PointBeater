@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PointBeater/static/css/main.e6c13ad2.css",
+    "main.js": "/PointBeater/static/js/main.4039a153.js",
+    "index.html": "/PointBeater/index.html",
+    "main.e6c13ad2.css.map": "/PointBeater/static/css/main.e6c13ad2.css.map",
+    "main.4039a153.js.map": "/PointBeater/static/js/main.4039a153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4039a153.js"
+  ]
+}
